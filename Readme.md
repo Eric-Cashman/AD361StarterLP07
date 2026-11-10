@@ -74,7 +74,6 @@ For each role, explain:
 <details>
 <summary>Step 2: Roles and Responsibilities</summary>
 
-## 
 
 | Role | Responsibilities | When Involved | Communication |
 | --- | --- | --- | --- |
